@@ -7,7 +7,7 @@ There isn't a direct executable. So you will have to download the gamemaker tool
 3. Run game
 
 
-It's my first attempt at making a game, so hardly a no brainer on the controls
+It's my first attempt at making a game, so hardly a no brainer on the control scheme.
 
 # You will have to shoot down 5 asteroids to win.
 
